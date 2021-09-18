@@ -1,4 +1,9 @@
-### Hi there 👋
+![Github stats](https://github-readme-stats.vercel.app/api?username=terremoth&show_icons=true&theme=radical&include_all_commits=true)  
+  
+[![LinkedIn][linkedin-shield]][linkedin-url]  
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555  
+[linkedin-url]: https://linkedin.com/in/dutr4/  
 
 <!--
 **terremoth/terremoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
