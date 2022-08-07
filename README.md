@@ -4,10 +4,23 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terremoth&count_private=true&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]  
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555  
-[linkedin-url]: https://linkedin.com/in/dutr4/  
+<div align="left"> 
+    <a href="https://www.linkedin.com/in/dutr4/" target="_blank">
+        <img alt="Linkedin Profile" title="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://codepen.io/terremoth" target="_blank">
+        <img alt="Codepen Profile" title="Codepen Profile" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
+    </a> 
+    <a href="https://instagram.com/lucas.m.dutra" target="_blank">
+        <img alt="Instagram Profile" title="Instagram Profile" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:dutra.astro@gmail.com">
+        <img alt="Email" title="Email" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://facebook.com/0day1337">
+        <img title="Facebook Profile" alt="Facebook Profile" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank">
+    </a>
+</div>
 
 # Hi! I am Lucas (he/him)
 - I live in Florianópolis (SC) Brazil. I learned Programming when I was 16 (2012), later, I started web developing in 2014.  
