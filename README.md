@@ -28,7 +28,7 @@
 - Nginx
 - Tools like: composer, npm, emmet
 - APIs (json/xml/csv) - consuming and creating
-- OOP, SOLID, MVC, Clean Code, optimizing code
+- OOP, SOLID, MVC, Clean Code, optimizing code, Refactoring
 - Kanban
 - MarkDown
 
@@ -76,7 +76,7 @@ Scalability, performance, web accessibility, SEO, web pentesting, web sniffing, 
 I understand a lot of Payment Gateways API's. I already implemented Credit Card payment from many companies (like Pagarme, Stone, Bin, MaxiPago, Cielo, Redecard), Boleto (a kind of Brazilian Ticket), Itaú Bank Online Electronic Transfer (Shopline), Brazilian PIX, PagSeguro Popup Checkout.
 
 #### Tools I used in life to develop:
-- DBeaver, MySQL Workbench, pgAdmin, Filezilla
+- DBeaver, MySQL Workbench, pgAdmin, Filezilla, Postman
 - Vim, NeoVim, Nano, Sublime, VSCode, Eclipse, NetBeans, Geany, PHPStorm, WebStorm, Notepad++
 
 #### Things that I pretend to learn:
