@@ -24,7 +24,7 @@
 
 # Hi! I am Lucas (he/him)
 - I live in Florianópolis (SC) Brazil. I learned Programming when I was 16 (2012), later, I started web developing in 2014.  
-- I love video games, martial arts, aerobics, read books, math challenges and play with electronics (analogic, digital and play with Arduino and Raspberry Pi).  
+- I love video games, martial arts, aerobics, read books, math challenges and play with electronics (analog, digital and play with Arduino and Raspberry Pi).  
 - I enjoy to automate processes and make people's life easier.
 
 ## I have great proficiency with:
@@ -84,7 +84,7 @@
 - GitHub, GitLab, Bitbucket
 
 ### Concepts I know/understand:
-Scalability, performance, web accessibility, SEO, web pentesting, web sniffing, crawling and scraping, queues, caching, SSL, tunning.  
+Scalability, virtualization, containers, performance, web accessibility, SEO, web pentesting, web sniffing, crawling and scraping, queues, caching, SSL, tunning.  
 
 I understand a lot of Payment Gateways API's. I already implemented Credit Card payment from many companies (like Pagarme, Stone, Bin, MaxiPago, Cielo, Redecard), Boleto (a kind of Brazilian Ticket), Itaú Bank Online Electronic Transfer (Shopline), Brazilian PIX, PagSeguro Popup Checkout.
 
@@ -93,6 +93,6 @@ I understand a lot of Payment Gateways API's. I already implemented Credit Card 
 - Vim, NeoVim, Nano, Sublime, VSCode, Eclipse, NetBeans, Geany, PHPStorm, WebStorm, Notepad++
 
 #### Things that I pretend to learn:
-- Elixir, Rust, F#, Haskell, LaTeX
-- Alpine JS, Inertia JS, Livewire, Swoole, ReactPHP, RxPHP, Symfony, Swoole
-- AWS, Terraform, Elastic Search, Ansible, Travis, Jekyll, Jenkins, Selenium, Microservices;
+- Langs: Elixir, Rust, F#, Haskell, LaTeX, Solidity
+- Frameworks/Libraries/Modules: Alpine JS, Inertia JS, Livewire, Swoole, ReactPHP, RxPHP, Symfony, Swoole
+- Tools: AWS, Terraform, Elastic Search, Ansible, Travis, Jekyll, Jenkins, Selenium, Microservices;
