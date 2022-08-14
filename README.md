@@ -94,5 +94,5 @@ I understand a lot of Payment Gateways API's. I already implemented Credit Card 
 
 #### Things that I pretend to learn:
 - Langs: Elixir, Rust, F#, Haskell, LaTeX, Solidity
-- Frameworks/Libraries/Modules: Alpine JS, Inertia JS, Livewire, Swoole, ReactPHP, RxPHP, Symfony, Swoole
+- Frameworks/Libraries/Modules: Alpine JS, Inertia JS, Livewire, Swoole, ReactPHP, RxPHP, Symfony
 - Tools: AWS, Terraform, Elastic Search, Ansible, Travis, Jekyll, Jenkins, Selenium, Microservices;
