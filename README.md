@@ -44,6 +44,7 @@
 - OOP, SOLID, MVC, Clean Code, optimizing code, Refactoring
 - Kanban
 - MarkDown
+- Database design
 
 ## I have some background expeciences with:
 - CodeIgniter 2
@@ -51,6 +52,7 @@
 - SASS (SCSS)
 - ShellScript
 - Scrum
+- Requirements analysis
 - Functional Programming
 - Applying various Design Patterns
 - Unit testing and web app load/stress test
@@ -78,19 +80,20 @@
 - Batch Script
 - DDD architecture
 - WordPress (install, themes, plugins, configuring, not developing)
+- GNU Make (tool)
 
 ### Platforms I already used:
 - Heroku, NewRelic, DigitalOcean, CloudFlare, Linode, Sendgrid, RDStation, Mautic. 
 - GitHub, GitLab, Bitbucket
 
 ### Concepts I know/understand:
-Scalability, virtualization, containers, performance, web accessibility, SEO, web pentesting, web sniffing, crawling and scraping, queues, caching, SSL, tunning.  
+Scalability, virtualization, containers, performance, web accessibility, SEO, web pentesting, web sniffing, crawling and scraping, queues, caching, SSL, tunning, UML.  
 
 I understand a lot of Payment Gateways API's. I already implemented Credit Card payment from many companies (like Pagarme, Stone, Bin, MaxiPago, Cielo, Redecard), Boleto (a kind of Brazilian Ticket), Itaú Bank Online Electronic Transfer (Shopline), Brazilian PIX, PagSeguro Popup Checkout.
 
 #### Tools I used in life to develop:
 - DBeaver, MySQL Workbench, pgAdmin, Filezilla, Postman
-- Vim, NeoVim, Nano, Sublime, VSCode, Eclipse, NetBeans, Geany, PHPStorm, WebStorm, Notepad++
+- Vim, NeoVim, Nano, Sublime, VSCode, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, PHPStorm, WebStorm, Notepad++
 
 #### Things that I pretend to learn:
 - Langs: Elixir, Rust, F#, Haskell, LaTeX, Solidity
