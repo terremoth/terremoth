@@ -64,6 +64,7 @@
 - Redis
 - Memcached
 - cPanel
+- Microsoft Office, LibreOffice and Google Docs
 
 ## I already played with (minor experiences):
 - Lumen
@@ -94,7 +95,7 @@ I understand a lot of Payment Gateways API's. I already implemented Credit Card 
 
 #### Tools I used in life to develop:
 - DBeaver, MySQL Workbench, pgAdmin, phpMyAdmin, Filezilla, Postman
-- Vim, NeoVim, Nano, Sublime, VSCode, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, PHPStorm, WebStorm, Notepad++
+- Vim, NeoVim, Nano, Sublime, VSCode, Notepad++, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, PHPStorm, WebStorm, PyCharm
 
 #### Things that I pretend to learn:
 - Langs: Elixir, Rust, F#, Haskell, LaTeX, Solidity
