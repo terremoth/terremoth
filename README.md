@@ -45,6 +45,7 @@
 - Kanban
 - MarkDown
 - Database design
+- Microsoft Office, LibreOffice and Google Docs
 
 ## I have some background expeciences with:
 - CodeIgniter 2
@@ -64,7 +65,6 @@
 - Redis
 - Memcached
 - cPanel
-- Microsoft Office, LibreOffice and Google Docs
 
 ## I already played with (minor experiences):
 - Lumen
