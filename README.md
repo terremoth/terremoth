@@ -98,6 +98,6 @@ I understand a lot of Payment Gateways API's. I already implemented Credit Card 
 - Vim, NeoVim, Nano, Sublime, VSCode, Notepad++, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, PHPStorm, WebStorm, PyCharm
 
 #### Things that I pretend to learn:
-- Langs: Elixir, Rust, F#, Haskell, LaTeX, Solidity
+- Langs: Elixir, Rust, F#, Haskell, LaTeX, Solidity, Rebol
 - Frameworks/Libraries/Modules: Alpine JS, Inertia JS, Livewire, Swoole, ReactPHP, RxPHP, Symfony
 - Tools: AWS, Terraform, Elastic Search, Ansible, Travis, Jekyll, Jenkins, Selenium, Microservices;
