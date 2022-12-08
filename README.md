@@ -26,6 +26,7 @@
 - I live in Florianópolis (SC) Brazil. I learned Programming when I was 16 (2012), later, I started web developing in 2014.  
 - I love video games, martial arts, aerobics, read books, math challenges and play with electronics (analog, digital and play with Arduino and Raspberry Pi).  
 - I enjoy to automate processes and make people's life easier.
+- Love scripting the UNIX way of doing things
 
 ## I have great proficiency with:
 - HTML
@@ -52,6 +53,7 @@
 - Web App Pentest
 - SASS (SCSS)
 - ShellScript
+- Docker
 - Scrum
 - Requirements analysis
 - Functional Programming
@@ -69,10 +71,10 @@
 ## I already played with (minor experiences):
 - Lumen
 - Apache
-- Docker
 - NodeJS (with express.js)
 - Axios
 - BASIC (MSX, Yabasic) 
+- DevOps
 - Pug
 - MongoDB
 - RabbitMQ
