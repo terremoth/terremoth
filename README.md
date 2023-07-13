@@ -1,4 +1,4 @@
-<div align="left">
+<!--<div align="left">
     <a href="https://github.com/terremoth">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terremoth&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terremoth&count_private=true&layout=compact&langs_count=6&theme=radical"/>
@@ -21,7 +21,7 @@
         <img title="Facebook Profile" alt="Facebook Profile" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank">
     </a>
 </div>
-
+-->
 # Hi! I am Lucas (he/him)
 - I live in Florianópolis (SC) Brazil. I learned Programming when I was 16 (2012), later, I started web developing in 2014.  
 - I love video games, martial arts, aerobics, read books, math challenges and play with electronics (analog, digital and play with Arduino and Raspberry Pi).  
