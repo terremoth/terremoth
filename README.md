@@ -1,4 +1,4 @@
-<!--<div align="left">
+<div align="left">
     <a href="https://github.com/terremoth">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terremoth&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terremoth&count_private=true&layout=compact&langs_count=6&theme=radical"/>
@@ -21,7 +21,7 @@
         <img title="Facebook Profile" alt="Facebook Profile" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank">
     </a>
 </div>
--->
+
 # Hi! I am Lucas (he/him)
 - I live in Florianópolis (SC) Brazil. I learned Programming when I was 16 (2012), later, I started web developing in 2014.  
 - I love video games, martial arts, aerobics, read books, math challenges and play with electronics (analog, digital and play with Arduino and Raspberry Pi).  
@@ -68,8 +68,10 @@
 - Memcached
 - cPanel
 
-## I already played with (minor experiences):
+## I already played or studied (minor experiences):
 - Lumen
+- React
+- Redux
 - Apache
 - NodeJS (with express.js)
 - Axios
@@ -84,14 +86,15 @@
 - DDD architecture
 - WordPress (install, themes, plugins, configuring, not developing)
 - GNU Make (tool)
+- Github Actions
 - PWA (Progressive Web Apps)
 
 ### Platforms I already used:
-- Heroku, NewRelic, DigitalOcean, CloudFlare, Linode, Sendgrid, RDStation, Mautic, Google Search Console, Google Analytics, Google ADS
+- Heroku, NewRelic, DigitalOcean, CloudFlare, Linode, Sendgrid, Sentry, RDStation, Mautic, Google Search Console, Google Analytics, Google ADS
 - GitHub, GitLab, Bitbucket
 
 ### Concepts I know/understand:
-Scalability, virtualization, containers, performance, web accessibility, SEO, web pentesting, web sniffing, crawling and scraping, queues, caching, SSL, tunning, UML.  
+Scalability, virtualization, containers, performance, web accessibility, SEO, web pentesting, web sniffing, crawling and scraping, queues, caching, SSL, tunning, UML and a little bit of the DePin (crypto) ecosystem.  
 
 I understand a lot of Payment Gateways API's. I already implemented Credit Card payment from many companies (like Pagarme, Stone, Bin, MaxiPago, Cielo, Redecard), Boleto (a kind of Brazilian Ticket), Itaú Bank Online Electronic Transfer (Shopline), Brazilian PIX, PagSeguro Popup Checkout.
 
