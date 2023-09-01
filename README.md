@@ -1,9 +1,9 @@
-<div align="left">
+<!-- <div align="left">
     <a href="https://github.com/terremoth">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terremoth&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terremoth&count_private=true&layout=compact&langs_count=6&theme=radical"/>
 </div>
-
+-->
 <div align="left"> 
     <a href="https://www.linkedin.com/in/dutr4/" target="_blank">
         <img alt="Linkedin Profile" title="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
