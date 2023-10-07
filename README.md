@@ -11,14 +11,8 @@
     <a href="https://codepen.io/terremoth" target="_blank">
         <img alt="Codepen Profile" title="Codepen Profile" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
     </a> 
-    <a href="https://instagram.com/lucas.m.dutra" target="_blank">
-        <img alt="Instagram Profile" title="Instagram Profile" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
     <a href="mailto:dutra.astro@gmail.com">
         <img alt="Email" title="Email" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://facebook.com/0day1337">
-        <img title="Facebook Profile" alt="Facebook Profile" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank">
     </a>
 </div>
 
