@@ -76,6 +76,7 @@
 - RabbitMQ
 - CI and CD
 - VBScript
+- MIT-Scheme Language (SICP)
 - Batch Script
 - DDD architecture
 - WordPress (install, themes, plugins, configuring, not developing)
