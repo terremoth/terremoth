@@ -71,6 +71,7 @@
 - Axios
 - BASIC (MSX, Yabasic) 
 - DevOps
+- PowerShell
 - Pug
 - MongoDB
 - RabbitMQ
