@@ -19,7 +19,7 @@
 # Hi! I am Lucas (he/him)
 - I live in Florianópolis (SC) Brazil. I learned Programming when I was 16, later, I started working as web developer in 2014.  
 - I love video games, Judô, aerobics and read books.  
-- I enjoy to automation processes, create bots and make people's life easier.
+- I enjoy automating processes, create bots and make people's life easier.
 
 ## I have great proficiency with:
 - HTML & CSS
