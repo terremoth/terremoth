@@ -46,6 +46,7 @@
 - SASS (SCSS)
 - ShellScript
 - Docker
+- YAML
 - Scrum
 - Requirements analysis
 - Functional Programming
@@ -75,6 +76,8 @@
 - RabbitMQ
 - CI and CD
 - VBScript
+- Selenium Webdriver (for Python and PHP)
+- Microservices
 - MIT-Scheme Language (SICP)
 - Batch Script
 - DDD architecture
@@ -99,4 +102,4 @@ I understand a lot of Payment Gateways API's. I already implemented Credit Card 
 #### Things that I pretend to learn:
 - Langs: Elixir, Rust, F#, Haskell, LaTeX, Solidity, Rebol
 - Frameworks/Libraries/Modules: Alpine JS, Inertia JS, Livewire, Swoole, ReactPHP, RxPHP, Symfony
-- Tools: AWS, Terraform, Elastic Search, Ansible, Travis, Jekyll, Jenkins, Selenium, Microservices;
+- Tools: AWS, Terraform, Elastic Search, Ansible, Jekyll, Jenkins, Selenium IDE, GraphQL;
