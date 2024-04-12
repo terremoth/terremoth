@@ -17,9 +17,9 @@
 </div>
 
 # Hi! I am Lucas (he/him)
-- I live in Florianópolis (SC) Brazil. I learned Programming when I was 16, later, I started working as web developer in 2014.  
-- I love video games, Judô, aerobics and read books.  
-- I enjoy automating processes, create bots and make people's life easier.
+- I've been a full stack web development for over 10 years.  
+- Ask-me about Judô, Cryptocurrencies and neuro-linguistic programming.  
+- I consider myself a process automation specialist (bots, scraping for eg.) and make people's lives easier and better.
 
 ## I have great proficiency with:
 - HTML & CSS
@@ -40,7 +40,7 @@
 - Database design
 - Microsoft Office, LibreOffice and Google Docs
 
-## I have some background expeciences with:
+## I have some expeciences with:
 - CodeIgniter 2
 - Web App Pentest
 - SASS (SCSS)
@@ -97,9 +97,9 @@ I understand a lot of Payment Gateways API's. I already implemented Credit Card 
 
 #### Tools I used in life to develop:
 - DBeaver, MySQL Workbench, pgAdmin, phpMyAdmin, FileZilla, Postman
-- Vim, NeoVim, Nano, Sublime, VSCode, Notepad++, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, PHPStorm, WebStorm, PyCharm
+- Vim, NeoVim, Nano, Sublime, VSCode, Notepad++, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, **PHPStorm**, WebStorm, PyCharm, Jupyter Notebook
 
 #### Things that I pretend to learn:
 - Langs: Elixir, Rust, F#, Haskell, LaTeX, Solidity, Rebol
 - Frameworks/Libraries/Modules: Alpine JS, Inertia JS, Livewire, Swoole, ReactPHP, RxPHP, Symfony
-- Tools: AWS, Terraform, Elastic Search, Ansible, Jekyll, Jenkins, Selenium IDE, GraphQL;
+- AWS, Terraform, Elastic Search, Ansible, Jekyll, Portainer, HCL, Selenium IDE, GraphQL;
