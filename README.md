@@ -17,7 +17,7 @@
 </div>
 
 # Hi! I am Lucas (he/him)
-- I've been a full stack web development for over 10 years.  
+- I've been a full stack web developer for over 10 years.  
 - Ask-me about Judô, Cryptocurrencies and neuro-linguistic programming.  
 - I consider myself a process automation specialist (bots, scraping for eg.) and make people's lives easier and better.
 
