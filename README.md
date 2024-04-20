@@ -34,7 +34,7 @@
 - Nginx
 - Tools like: composer, npm, emmet
 - APIs (json/xml/csv) including REST model - consuming and creating
-- OOP, SOLID, MVC, Clean Code, optimizing code, Refactoring
+- OOP, SOLID, MVC, Clean Code, Object Calisthenics, optimizing code, Refactoring
 - Kanban
 - MarkDown
 - Database design
