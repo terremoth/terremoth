@@ -20,6 +20,7 @@
 - I've been a full stack web developer for over 10 years.  
 - Ask-me about Judô, Cryptocurrencies and neuro-linguistic programming.  
 - I consider myself a process automation specialist (bots, scraping for eg.) and make people's lives easier and better.
+- Web Development Expert with full stack experience
 
 ## I have great proficiency with:
 - HTML & CSS
