@@ -21,6 +21,12 @@
 - Ask-me about Judô, Cryptocurrencies and neuro-linguistic programming.  
 - I consider myself a process automation specialist (bots, scraping for eg.) and make people's lives easier and better.
 
+Want to buy me a beer or help me with my projects?  
+Here's my ![Monero Logo](https://www.getmonero.org/meta/favicon-16x16.png) [**Monero**](https://www.getmonero.org/) Wallet address: `8Br3ZcbXmaYUoQxefbLV1ZDzQYs7gG9Q8GVa34RHGJNY6AuraF3adoYSv1Ze9vqjf7CSttUo145jZaadFfW2iXG5Rzhxjoq`  
+
+![image](https://github.com/user-attachments/assets/f71f14e0-df71-4e0b-8fb3-68b724b5914a)
+
+
 ## I have great proficiency with:
 - HTML & CSS
 - JavaScript (including ES6+)
