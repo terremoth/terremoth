@@ -109,3 +109,5 @@ I understand a lot of Payment Gateways API's. I already implemented Credit Card 
 - Langs: Elixir, Rust, F#, Haskell, LaTeX, Solidity, Rebol
 - Frameworks/Libraries/Modules: Alpine JS, Inertia JS, Livewire, Swoole, ReactPHP, RxPHP, Symfony
 - AWS, Terraform, Elastic Search, Ansible, Jekyll, Portainer, HCL, Selenium IDE, GraphQL;
+
+_**I also accept Bitcoin and Monero in exchange for my services. Contact me.**_
