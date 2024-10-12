@@ -17,48 +17,42 @@
 </div>
 
 # Hi! I am Lucas (he/him)
-- I've been a full stack web developer for over 10 years.  
-- Ask-me about Judô, Cryptocurrencies and neuro-linguistic programming.  
-- I consider myself a process automation specialist (bots, scraping for eg.) and make people's lives easier and better.
+With over 10 years of experience in full stack web development, I specialize in creating efficient, scalable web applications. I'm passionate about process automation, enhancing workflows with bots and web scraping, and making complex systems more user-friendly.  
 
-Want to buy me a beer or help me with my projects?  
-Here's my ![Monero Logo](https://www.getmonero.org/meta/favicon-16x16.png) [**Monero**](https://www.getmonero.org/) Wallet address: `8Br3ZcbXmaYUoQxefbLV1ZDzQYs7gG9Q8GVa34RHGJNY6AuraF3adoYSv1Ze9vqjf7CSttUo145jZaadFfW2iXG5Rzhxjoq`  
+_Personal interests: Judo, cryptocurrencies, and automation._
 
-![image](https://github.com/user-attachments/assets/f71f14e0-df71-4e0b-8fb3-68b724b5914a)
-
-
-## I have great proficiency with:
-- HTML & CSS
+## Proficient in:
+- HTML and CSS
 - JavaScript (including ES6+)
 - PHP, since version 5
 - Laravel since version 5
-- SQL (MySQL/MariaDB, PostgreSQL and SQLite)
+- SQL (MySQL, MariaDB, PostgreSQL and SQLite)
 - jQuery and jQuery UI
 - Bootstrap since version 3
 - git and gitflow
-- Linux (I use on everyday life, switching from Ubuntu, Debian, Fedora, Mint, Manjaro and tested a lot of other distros)
+- Linux (used daily, switching between Ubuntu, Debian, Fedora, Mint, Manjaro, and others)
 - Nginx
-- Tools like: composer, npm, emmet
-- APIs (json/xml/csv) including REST model - consuming and creating
-- OOP, SOLID, MVC, Clean Code, Object Calisthenics, optimizing code, Refactoring
-- Kanban
-- MarkDown
+- Tools such as composer, npm, yarn, emmet
+- APIs (JSON, XML, CSV) including RESTful APIs (consuming and building)
+- OOP, SOLID, MVC, Clean Code, Object Calisthenics, GRASP, KISS, code optimization and refactoring
+- Kanban management
+- Markdown
 - Database design
-- Microsoft Office, LibreOffice and Google Docs
+- Microsoft Office, LibreOffice, Google Docs
 
-## I have some expeciences with:
+## Experienced in:
 - CodeIgniter 2
-- Web App Pentest
+- Web App Pentesting
 - SASS (SCSS)
 - ShellScript
 - Docker
 - YAML
-- Scrum
+- Scrum methodology
 - Requirements analysis
 - Functional Programming
-- Applying various Design Patterns
-- Unit testing and web app load/stress test
-- Python (desktop/scripting/web-scraping)
+- Design patterns
+- Unit testing and load/stress testing for web apps
+- Python (desktop, scripting, web scraping, bots, automation)
 - Java (desktop only)
 - C (pure, not C++)
 - TypeScript
@@ -66,8 +60,9 @@ Here's my ![Monero Logo](https://www.getmonero.org/meta/favicon-16x16.png) [**Mo
 - Redis
 - Memcached
 - cPanel
+- Developer recruiting and mentoring
 
-## I already played or studied (minor experiences):
+## Minor experience or studies with:
 - Lumen
 - React
 - Redux
@@ -77,37 +72,43 @@ Here's my ![Monero Logo](https://www.getmonero.org/meta/favicon-16x16.png) [**Mo
 - BASIC language (MSX, Yabasic) 
 - DevOps
 - PowerShell
-- Pug
+- Pug (formerly Jade)
 - MongoDB
 - RabbitMQ
-- CI and CD
+- CI and CD pipelines
 - VBScript
 - Selenium Webdriver (for Python and PHP)
 - Microservices
-- MIT-Scheme Language (SICP)
-- Batch Script
+- MIT-Scheme (SICP)
+- Batch scripting
 - DDD architecture
-- WordPress (install, themes, plugins, configuring, but not developing to/with it)
-- GNU Make (tool)
+- WordPress (install, themes, plugins, configuring, not development)
+- GNU Make
 - Github Actions
-- PWA (Progressive Web Apps)
+- Progressive Web Apps (PWA)
+- Developer team management
 
-### Platforms I already used:
+### Platforms I've worked with:
 - Heroku, NewRelic, DigitalOcean, CloudFlare, Linode, Sendgrid, Sentry, RDStation, Mautic, Google Search Console, Google Analytics, Google ADS
 - GitHub, GitLab, Bitbucket
 
-### Concepts I know/understand:
+### Concepts I'm familiar with:
 Scalability, virtualization, containers, performance, web accessibility, SEO, web pentesting, web sniffing, crawling and scraping, queues, caching, SSL, tunning, OAuth, UML and a little bit of the DePin (crypto) ecosystem.  
 
 I understand a lot of Payment Gateways API's. I already implemented Credit Card payment from many companies (like Pagarme, Stone, Bin, MaxiPago, Cielo, Redecard), Boleto (a kind of Brazilian Ticket), Itaú Bank Online Electronic Transfer (Shopline), Brazilian PIX, PagSeguro Popup Checkout.
 
-#### Tools I used in life to develop:
+#### Development tools I've used:
 - DBeaver, MySQL Workbench, pgAdmin, phpMyAdmin, FileZilla, Postman
 - Vim, NeoVim, Nano, Sublime, VSCode, Notepad++, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, **PHPStorm**, WebStorm, PyCharm, Jupyter Notebook
 
-#### Things that I pretend to learn:
+#### Skills I plan to learn:
 - Langs: Elixir, Rust, F#, Haskell, LaTeX, Solidity, Rebol
 - Frameworks/Libraries/Modules: Alpine JS, Inertia JS, Livewire, Swoole, ReactPHP, RxPHP, Symfony
 - AWS, Terraform, Elastic Search, Ansible, Jekyll, Portainer, HCL, Selenium IDE, GraphQL;
 
-_**I also accept Bitcoin and Monero in exchange for my services. Contact me.**_
+## Get in Touch
+I'm always open to discussing new opportunities or collaborations. Feel free to contact me through GitHub, Email or LinkedIn.  
+
+_Personal interests: Judo, cryptocurrencies, automation ans PlayStation 2 stuff._  
+
+_Payment options available, including cryptocurrencies (Monero, Bitcoin)._ 
