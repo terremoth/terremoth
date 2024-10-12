@@ -97,7 +97,7 @@ Here's my ![Monero Logo](https://www.getmonero.org/meta/favicon-16x16.png) [**Mo
 - GitHub, GitLab, Bitbucket
 
 ### Concepts I know/understand:
-Scalability, virtualization, containers, performance, web accessibility, SEO, web pentesting, web sniffing, crawling and scraping, queues, caching, SSL, tunning, UML and a little bit of the DePin (crypto) ecosystem.  
+Scalability, virtualization, containers, performance, web accessibility, SEO, web pentesting, web sniffing, crawling and scraping, queues, caching, SSL, tunning, OAuth, UML and a little bit of the DePin (crypto) ecosystem.  
 
 I understand a lot of Payment Gateways API's. I already implemented Credit Card payment from many companies (like Pagarme, Stone, Bin, MaxiPago, Cielo, Redecard), Boleto (a kind of Brazilian Ticket), Itaú Bank Online Electronic Transfer (Shopline), Brazilian PIX, PagSeguro Popup Checkout.
 
