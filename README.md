@@ -89,13 +89,13 @@ _Personal interests: Judo, cryptocurrencies, and automation._
 - Developer team management
 
 ### Platforms I've worked with:
-- Heroku, NewRelic, DigitalOcean, CloudFlare, Linode, Sendgrid, Sentry, RDStation, Mautic, Google Search Console, Google Analytics, Google ADS
+- Heroku, NewRelic, DigitalOcean, CloudFlare, Linode, Sendgrid, Sentry, RDStation, Mautic, Google Search Console, Google Analytics, Google Ads
 - GitHub, GitLab, Bitbucket
 
 ### Concepts I'm familiar with:
-Scalability, virtualization, containers, performance, web accessibility, SEO, web pentesting, web sniffing, crawling and scraping, queues, caching, SSL, tunning, OAuth, UML and a little bit of the DePin (crypto) ecosystem.  
+Scalability, virtualization, containers, performance optimization, web accessibility, SEO, pentesting, web sniffing, crawling, scraping, queues, caching, SSL, tuning, OAuth, UML, and basic knowledge of the DePin (crypto) ecosystem.
 
-I understand a lot of Payment Gateways API's. I already implemented Credit Card payment from many companies (like Pagarme, Stone, Bin, MaxiPago, Cielo, Redecard), Boleto (a kind of Brazilian Ticket), Itaú Bank Online Electronic Transfer (Shopline), Brazilian PIX, PagSeguro Popup Checkout.
+I have extensive experience with Payment Gateway APIs and have implemented credit card payments for several providers (e.g., Pagar.me, Stone, Bin, MaxiPago, Cielo, Redecard), Boleto (Brazilian ticketing system), Itaú Bank Online Transfer (Shopline), Brazilian PIX, and PagSeguro Popup Checkout.
 
 #### Development tools I've used:
 - DBeaver, MySQL Workbench, pgAdmin, phpMyAdmin, FileZilla, Postman
