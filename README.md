@@ -19,8 +19,6 @@
 # Hi! I am Lucas (he/him)
 With over 10 years of experience in full stack web development, I specialize in creating efficient, scalable web applications. I'm passionate about process automation, enhancing workflows with bots and web scraping, and making complex systems more user-friendly.  
 
-_Personal interests: Judo, cryptocurrencies, and automation._
-
 ## Proficient in:
 - HTML and CSS
 - JavaScript (including ES6+)
@@ -39,28 +37,29 @@ _Personal interests: Judo, cryptocurrencies, and automation._
 - Markdown
 - Database design
 - Microsoft Office, LibreOffice, Google Docs
+- Blogging on Blogger (Blogspot) for over 14 years
 
 ## Experienced in:
-- CodeIgniter 2
-- Web App Pentesting
-- SASS (SCSS)
-- ShellScript
-- Docker
-- YAML
-- Scrum methodology
-- Requirements analysis
-- Functional Programming
-- Design patterns
-- Unit testing and load/stress testing for web apps
 - Python (desktop, scripting, web scraping, bots, automation)
-- Java (desktop only)
-- C (pure, not C++)
+- Docker
+- Design patterns
+- Unit testing, integration testing, and load/stress testing for web apps
 - TypeScript
-- Lambda Calculus and Church Encoding
+- SASS (SCSS)
 - Redis
 - Memcached
-- cPanel
+- Scrum methodology
+- ShellScript
+- CodeIgniter 2
+- Web App Pentesting
+- Functional Programming
+- Requirements analysis
+- YAML
+- Java (desktop only)
+- C (pure, not C++)
+- Lambda Calculus and Church Encoding
 - Developer recruiting and mentoring
+- cPanel and WHM
 
 ## Minor experience or studies with:
 - Lumen
@@ -95,20 +94,20 @@ _Personal interests: Judo, cryptocurrencies, and automation._
 ### Concepts I'm familiar with:
 Scalability, virtualization, containers, performance optimization, web accessibility, SEO, pentesting, web sniffing, crawling, scraping, queues, caching, SSL, tuning, OAuth, UML, and basic knowledge of the DePin (crypto) ecosystem.
 
-I have extensive experience with Payment Gateway APIs and have implemented credit card payments for several providers (e.g., Pagar.me, Stone, Bin, MaxiPago, Cielo, Redecard), Boleto (Brazilian ticketing system), Itaú Bank Online Transfer (Shopline), Brazilian PIX, and PagSeguro Popup Checkout.
+I have extensive experience implementing payment systems for providers like Pagar.me, Stone, Bin, MaxiPago, Cielo, Redecard, as well as Brazilian systems such as Boleto, PIX, Itaú Bank Online Transfer (Shopline), and PagSeguro Popup Checkout.
 
-#### Development tools I've used:
+#### Tools I'm proficient in:
 - DBeaver, MySQL Workbench, pgAdmin, phpMyAdmin, FileZilla, Postman
 - Vim, NeoVim, Nano, Sublime, VSCode, Notepad++, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, **PHPStorm**, WebStorm, PyCharm, Jupyter Notebook
 
 #### Skills I plan to learn:
-- Langs: Elixir, Rust, F#, Haskell, LaTeX, Solidity, Rebol
+- Languages: Elixir, Rust, F#, Haskell, LaTeX, Solidity, Rebol
 - Frameworks/Libraries/Modules: Alpine JS, Inertia JS, Livewire, Swoole, ReactPHP, RxPHP, Symfony
 - AWS, Terraform, Elastic Search, Ansible, Jekyll, Portainer, HCL, Selenium IDE, GraphQL;
 
 ## Get in Touch
-I'm always open to discussing new opportunities or collaborations. Feel free to contact me through GitHub, Email or LinkedIn.  
+I'm always eager to connect and discuss new opportunities, collaborations, or projects. Don't hesitate to reach out via GitHub, Email, or LinkedIn.
 
-_Personal interests: Judo, cryptocurrencies, automation ans PlayStation 2 stuff._  
+_Personal interests: Judo, cryptocurrencies, automation and PlayStation 2 stuff._  
 
 _Payment options available, including cryptocurrencies (Monero, Bitcoin)._ 
