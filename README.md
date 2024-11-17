@@ -70,6 +70,7 @@ With over 10 years of experience in full stack web development, I specialize in 
 - Axios
 - BASIC language (MSX, Yabasic) 
 - DevOps
+- AWK
 - PowerShell
 - Pug (formerly Jade)
 - MongoDB
@@ -98,16 +99,17 @@ I have extensive experience implementing payment systems for providers like Paga
 
 #### Tools I'm proficient in:
 - DBeaver, MySQL Workbench, pgAdmin, phpMyAdmin, FileZilla, Postman
-- Vim, NeoVim, Nano, Sublime, VSCode, Notepad++, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, **PHPStorm**, WebStorm, PyCharm, Jupyter Notebook
+- Vim, NeoVim, Nano, Sublime, VSCode, VSCodium, Notepad++, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, **PHPStorm**, WebStorm, PyCharm, Jupyter Notebook
 
 #### Skills I plan to learn:
-- Languages: Elixir, Rust, F#, Haskell, LaTeX, Solidity, Rebol
+- Languages: Elixir, Rust, F#, Haskell, LaTeX, Solidity
 - Frameworks/Libraries/Modules: Alpine JS, Inertia JS, Livewire, Swoole, ReactPHP, RxPHP, Symfony
+- Tools: groff, flex, bison, yacc 
 - AWS, Terraform, Elastic Search, Ansible, Jekyll, Portainer, HCL, Selenium IDE, GraphQL;
 
 ## Get in Touch
 I'm always eager to connect and discuss new opportunities, collaborations, or projects. Don't hesitate to reach out via GitHub, Email, or LinkedIn.
 
-_Personal interests: Judo, cryptocurrencies, automation and PlayStation 2 stuff._  
+_Personal interests: Japanese martial arts, cryptocurrencies, gaming, automation and PlayStation 2 stuff._  
 
 _Payment options available, including cryptocurrencies (Monero, Bitcoin)._ 
