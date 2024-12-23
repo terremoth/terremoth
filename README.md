@@ -54,7 +54,6 @@ With over 10 years of experience in full stack web development, I specialize in 
 - Web App Pentesting
 - Functional Programming
 - Requirements analysis
-- YAML
 - Java (desktop only)
 - C (pure, not C++)
 - Lambda Calculus and Church Encoding
@@ -93,7 +92,7 @@ With over 10 years of experience in full stack web development, I specialize in 
 - GitHub, GitLab, Bitbucket
 
 ### Concepts I'm familiar with:
-Scalability, virtualization, containers, performance optimization, web accessibility, SEO, pentesting, web sniffing, crawling, scraping, queues, caching, SSL, tuning, OAuth, UML, and basic knowledge of the DePin (crypto) ecosystem.
+Scalability, virtualization, containers, performance optimization, web accessibility, SEO, pentesting, web sniffing, crawling, scraping, queues, caching, SSL, tuning, OAuth, UML, environment configuration (json, toml, yaml) and basic knowledge of the DePin (crypto) ecosystem. 
 
 I have extensive experience implementing payment systems for providers like Pagar.me, Stone, Bin, MaxiPago, Cielo, Redecard, as well as Brazilian systems such as Boleto, PIX, Itaú Bank Online Transfer (Shopline), and PagSeguro Popup Checkout.
 
