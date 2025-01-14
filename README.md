@@ -24,6 +24,7 @@ With over 10 years of experience in full stack web development, I specialize in 
 - JavaScript (including ES6+)
 - PHP, since version 5
 - Laravel since version 5
+- Jigsaw (Static Site Generator based on Laravel)
 - SQL (MySQL, MariaDB, PostgreSQL and SQLite)
 - jQuery and jQuery UI
 - Bootstrap since version 3
