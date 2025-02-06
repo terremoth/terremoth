@@ -38,7 +38,7 @@ With over 10 years of experience in full stack web development, I specialize in 
 - Markdown
 - Database design
 - Microsoft Office, LibreOffice, Google Docs
-- Blogging on Blogger (Blogspot) for over 14 years
+- Blogging on Blogger (Blogspot) since 2011
 
 ## Experienced in:
 - Python (desktop, scripting, web scraping, bots, automation)
