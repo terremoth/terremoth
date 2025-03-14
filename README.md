@@ -77,6 +77,7 @@ With over 10 years of experience in full stack web development, I specialize in 
 - RabbitMQ
 - CI and CD pipelines
 - VBScript
+- Win32 API
 - Selenium Webdriver (for Python and PHP)
 - Microservices
 - MIT-Scheme (SICP)
