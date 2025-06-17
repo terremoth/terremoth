@@ -80,7 +80,7 @@ With over 10 years of experience in full stack web development, I specialize in 
 - Win32 API
 - Selenium Webdriver (for Python and PHP)
 - Microservices
-- MIT-Scheme (SICP)
+- MIT-Scheme (SICP), Chicken Scheme
 - Batch scripting
 - DDD architecture
 - WordPress (install, themes, plugins, configuring, not development)
