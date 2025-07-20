@@ -94,7 +94,7 @@ With over 10 years of experience in full stack web development, I specialize in 
 - GitHub, GitLab, Bitbucket
 
 ### Concepts I'm familiar with:
-Scalability, virtualization, containers, performance optimization, web accessibility, SEO, pentesting, web sniffing, crawling, scraping, queues, caching, SSL, tuning, OAuth, UML, environment configuration (json, toml, yaml) and basic knowledge of the DePin (crypto) ecosystem. 
+Scalability, virtualization, containers, performance optimization, web accessibility, SEO, pentesting, web sniffing, web crawling, web scraping, queues, caching, SSL, tuning, OAuth, UML, environment configuration (json, toml, yaml) and basic knowledge of the DePin (crypto) ecosystem. 
 
 I have extensive experience implementing payment systems for providers like Pagar.me, Stone, Bin, MaxiPago, Cielo, Redecard, as well as Brazilian systems such as Boleto, PIX, Itaú Bank Online Transfer (Shopline), and PagSeguro Popup Checkout.
 
@@ -102,15 +102,9 @@ I have extensive experience implementing payment systems for providers like Paga
 - DBeaver, MySQL Workbench, pgAdmin, phpMyAdmin, FileZilla, Postman
 - Vim, NeoVim, Nano, Sublime, VSCode, VSCodium, Notepad++, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, **PHPStorm**, WebStorm, PyCharm, Jupyter Notebook
 
-#### Skills I plan to learn:
-- Languages: Elixir, Rust, F#, Haskell, LaTeX, Solidity
-- Frameworks/Libraries/Modules: Alpine JS, Inertia JS, Livewire, Swoole, ReactPHP, RxPHP, Symfony
-- Tools: groff, flex, bison, yacc 
-- AWS, Terraform, Elastic Search, Ansible, Jekyll, Portainer, HCL, Selenium IDE, GraphQL;
-
 ## Get in Touch
 I'm always eager to connect and discuss new opportunities, collaborations, or projects. Don't hesitate to reach out via GitHub, Email, or LinkedIn.
 
 _Personal interests: Japanese martial arts, cryptocurrencies, gaming, automation and PlayStation 2 stuff._  
 
-_Payment options available, including cryptocurrencies (Monero, Bitcoin)._ 
+_Payment options available, including cryptocurrencies (Bitcoin, Monero)._ 
