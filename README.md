@@ -67,10 +67,6 @@ Scalability, virtualization, containers, performance optimization, web accessibi
 
 I have extensive experience implementing payment systems for providers like Pagar.me, Stone, Bin, MaxiPago, Cielo, Redecard, as well as Brazilian systems such as Boleto, PIX, Itaú Bank Online Transfer (Shopline), and PagSeguro Popup Checkout.
 
-#### Tools I'm proficient in:
-- DBeaver, MySQL Workbench, pgAdmin, phpMyAdmin, FileZilla, Postman
-- Vim, NeoVim, Nano, Sublime, VSCode, VSCodium, Notepad++, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, **PHPStorm**, WebStorm, PyCharm, Jupyter Notebook
-
 ## 📬 **Let’s connect!**
 I'm always eager to connect and discuss new opportunities, collaborations, or projects. Don't hesitate to reach out via GitHub, Email, or LinkedIn.
 
