@@ -17,79 +17,43 @@
 </div>
 
 # Hi! I am Lucas (he/him)
-With over 10 years of experience in full stack web development, I specialize in creating efficient, scalable web applications. I'm passionate about process automation, enhancing workflows with bots and web scraping, and making complex systems more user-friendly.  
+Hi, I'm Lucas 👋 — a full stack web developer with 10+ years of hands-on experience building scalable web applications, automating workflows, and making systems easier to use. I specialize in PHP (Laravel), JavaScript, Linux, and scraping/automation with Python.
 
-## Proficient in:
-- HTML and CSS
-- JavaScript (including ES6+)
-- PHP, since version 5
-- Laravel since version 5
-- Jigsaw (Static Site Generator based on Laravel)
-- SQL (MySQL, MariaDB, PostgreSQL and SQLite)
-- jQuery and jQuery UI
-- Bootstrap since version 3
-- git and gitflow
-- Linux (used daily, switching between Ubuntu, Debian, Fedora, Mint, Manjaro, and others)
-- Nginx
-- Tools such as composer, npm, yarn, emmet
-- APIs (JSON, XML, CSV) including RESTful APIs (consuming and building)
-- OOP, SOLID, MVC, Clean Code, Object Calisthenics, GRASP, KISS, code optimization and refactoring
+## 🔧 Proficient in:
+- HTML, CSS, JavaScript, PHP, SQL
+- Laravel, Symfony, Jigsaw
+- jQuery, jQuery UI, Bootstrap
+- MySQL, MariaDB, PostgreSQL, SQLite and Database design
+- Docker, Git, GitFlow, Github Actions
+- Windows, Linux
+- Nginx, Apache
+- OOP, SOLID, MVC, Clean Code, Object Calisthenics, GRASP, KISS, DRY, code optimization and refactoring
 - Kanban management
-- Markdown
-- Database design
-- Microsoft Office, LibreOffice, Google Docs
-- Blogging on Blogger (Blogspot) since 2011
+- Markdown documenting
 
-## Experienced in:
-- Python (desktop, scripting, web scraping, bots, automation)
-- Docker
-- Design patterns
-- Unit testing, integration testing, and load/stress testing for web apps
-- TypeScript
-- WordPress
+## 🧠 Experienced in:
+- Python, ShellScript, Java (desktop), C, TypeScript
+- Design patterns, Unit testing, integration testing, and stress testing
+- WordPress, CodeIgniter 2
 - SASS (SCSS)
-- Redis
-- Memcached
-- Scrum methodology
-- ShellScript
-- CodeIgniter 2
-- Web App Pentesting
-- Functional Programming
-- Requirements analysis
-- Java (desktop only)
-- C (pure, not C++)
-- Lambda Calculus and Church Encoding
-- Developer recruiting and mentoring
+- Redis, Memcached
+- Scrum methodology, Web App Pentesting
+- Functional Programming, Lambda Calculus and Church Encoding
+- Requirements analysis, Developer recruiting and mentoring
 - cPanel and WHM
 
-## Minor experience or studies with:
-- Lumen
-- React
-- Redux
-- Apache
-- NodeJS (with express.js)
-- Axios
-- BASIC language (MSX, Yabasic) 
-- DevOps
-- AWK
-- PowerShell
-- Pug (formerly Jade)
-- MongoDB
-- RabbitMQ
-- CI and CD pipelines
-- VBScript
-- Win32 API
+## 📦 Minor experience or studies with:
+- Lumen, NodeJS, Express.js, React, Redux, Axios, Pug, MongoDB
+- BASIC dialects (MSX, Yabasic), AWK, PowerShell, VBScript, Win32 API, Batch scripting, MIT-Scheme (SICP), Chicken Scheme
+- DevOps, CI and CD pipelines
+- Microservices, RabbitMQ
 - Selenium Webdriver (for Python and PHP)
-- Microservices
-- MIT-Scheme (SICP), Chicken Scheme
-- Batch scripting
 - DDD architecture
 - GNU Make
-- Github Actions
 - Progressive Web Apps (PWA)
 - Developer team management
 
-### Platforms I've worked with:
+### 🌐 Platforms I've worked with:
 - Heroku, NewRelic, DigitalOcean, CloudFlare, Linode, Sendgrid, Sentry, RDStation, Mautic, Google Search Console, Google Analytics, Google Ads
 - GitHub, GitLab, Bitbucket
 
@@ -102,7 +66,7 @@ I have extensive experience implementing payment systems for providers like Paga
 - DBeaver, MySQL Workbench, pgAdmin, phpMyAdmin, FileZilla, Postman
 - Vim, NeoVim, Nano, Sublime, VSCode, VSCodium, Notepad++, Eclipse, NetBeans, Aptana, DreamWeaver, Geany, **PHPStorm**, WebStorm, PyCharm, Jupyter Notebook
 
-## Get in Touch
+## 📬 **Let’s connect!**
 I'm always eager to connect and discuss new opportunities, collaborations, or projects. Don't hesitate to reach out via GitHub, Email, or LinkedIn.
 
 _Personal interests: Japanese martial arts, cryptocurrencies, gaming, automation and PlayStation 2 stuff._  
