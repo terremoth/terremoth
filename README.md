@@ -24,7 +24,7 @@
 # Hi! I am Lucas (he/him)
 Hi, I'm Lucas 👋 — a full stack web developer with 10+ years of hands-on experience building scalable web applications, automating workflows, and making systems easier to use. I specialize in PHP (Laravel), JavaScript, Linux, and scraping/automation with Python.
 
-## 🔧 Proficient in:
+## 🔧 Proficient in
 - HTML, CSS, JavaScript, PHP, SQL
 - Laravel, Symfony, Jigsaw
 - jQuery, jQuery UI, Bootstrap
@@ -47,7 +47,7 @@ Hi, I'm Lucas 👋 — a full stack web developer with 10+ years of hands-on exp
 - Requirements analysis, Developer recruiting and mentoring
 - cPanel and WHM
 
-## 📦 Minor experience or studies with:
+## 📦 Minor experience with:
 - Lumen, NodeJS, Express.js, React, Redux, Axios, Pug, MongoDB
 - BASIC dialects (MSX, Yabasic), AWK, PowerShell, VBScript, Win32 API, Batch scripting, MIT-Scheme (SICP), Chicken Scheme
 - DevOps, CI and CD pipelines
