@@ -6,13 +6,13 @@
 
 <div align="left"> 
     <a href="https://www.linkedin.com/in/dutr4/" target="_blank">
-        <img alt="Linkedin Profile" title="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        <img alt="Linkedin Profile" title="Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a> 
     <a href="https://codepen.io/terremoth" target="_blank">
-        <img alt="Codepen Profile" title="Codepen Profile" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
+        <img alt="Codepen Profile" title="Codepen Profile" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
     </a> 
-    <a href="mailto:dutra.astro@gmail.com">
-        <img alt="Email" title="Email" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <a href="mailto:dutra.astro@gmail.com" target="_blank">
+        <img alt="Email" title="Email" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>
 
