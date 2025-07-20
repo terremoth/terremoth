@@ -46,6 +46,7 @@ With over 10 years of experience in full stack web development, I specialize in 
 - Design patterns
 - Unit testing, integration testing, and load/stress testing for web apps
 - TypeScript
+- WordPress
 - SASS (SCSS)
 - Redis
 - Memcached
@@ -83,7 +84,6 @@ With over 10 years of experience in full stack web development, I specialize in 
 - MIT-Scheme (SICP), Chicken Scheme
 - Batch scripting
 - DDD architecture
-- WordPress (install, themes, plugins, configuring, not development)
 - GNU Make
 - Github Actions
 - Progressive Web Apps (PWA)
