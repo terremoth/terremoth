@@ -31,7 +31,7 @@ Hi, I'm Lucas 👋 — a full stack web developer with 11+ years of hands-on exp
 - Docker, Git, GitFlow, Github Actions
 - Windows, Linux
 - Nginx, Apache
-- OOP, SOLID, MVC, Clean Code, Object Calisthenics, GRASP, KISS, YAGNI, LoD, DRY, code optimization and refactoring
+- OOP, SOLID, MVC, Clean Code, Object Calisthenics, GRASP, KISS, DOTADIW, YAGNI, LoD, DRY, code optimization and refactoring
 - Kanban management
 - Markdown documenting
 
