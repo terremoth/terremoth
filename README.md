@@ -21,7 +21,7 @@
 </div>
 
 # Hi! I am Lucas (he/him)
-Hi, I'm Lucas 👋 - a full stack web developer with 11+ years of hands-on experience building scalable web applications, automating workflows, and making systems easier to use. I specialize in PHP, JavaScript, Linux, and Python.
+Hi, I'm Lucas 👋 - a full stack web developer with 11+ years of hands-on experience building scalable web applications, automating workflows, and making systems easier to use. I specialize in PHP, JavaScript, Linux, and Python. I am currently pursuing a B.Sc. in Electronics Engineering at the Federal Institute of Santa Catarina.
 
 ## 🔧 Proficient in
 - HTML, CSS, JavaScript, PHP, SQL
@@ -56,6 +56,7 @@ Hi, I'm Lucas 👋 - a full stack web developer with 11+ years of hands-on exper
 - GNU Make
 - Progressive Web Apps (PWA)
 - Developer team management
+- KiCAD, Logisim, Proteus, Deeds, basic electronic circuit design
 
 ### 🌐 Platforms I've worked with:
 - Heroku, NewRelic, DigitalOcean, CloudFlare, Linode, Sendgrid, Sentry, RDStation, Mautic, Google Search Console, Google Analytics, Google Ads
