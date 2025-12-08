@@ -1,6 +1,6 @@
 <div align="left">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=terremoth&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terremoth&count_private=true&layout=compact&langs_count=6&theme=radical"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terremoth&count_private=true&layout=compact&langs_count=6&theme=radical"/> -->
     <p align="left">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=php,laravel,js,python,html,css,mysql,postgres,docker,git,linux,nginx,sqlite,jquery,bootstrap,c,typescript,wordpress,scss,redis,nodejs,powershell,selenium,windows,pug,arduino,bash,raspberrypi,postman,githubactions" />
