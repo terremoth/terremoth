@@ -45,6 +45,8 @@ Hi, I'm Lucas 👋 - a full stack web developer with 11+ years of hands-on exper
 - Functional Programming, Lambda Calculus and Church Encoding
 - Requirements analysis, Developer recruiting and mentoring
 - cPanel and WHM
+- Soldering
+- Home Automation
 
 ## 📦 Minor experience with:
 - Lumen, NodeJS, Express.js, React, Redux, Axios, Pug, MongoDB
