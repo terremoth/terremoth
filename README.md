@@ -25,7 +25,7 @@ Hi, I'm Lucas 👋 - a full stack web developer with 12+ years of hands-on exper
 
 ## 🔧 Proficient in
 - HTML, CSS, JavaScript, PHP, SQL
-- Laravel, Symfony, Jigsaw
+- Laravel, Jigsaw
 - jQuery, jQuery UI, Bootstrap
 - MySQL, MariaDB, PostgreSQL, SQLite and Database design
 - Docker, Git, GitFlow, Github Actions
@@ -52,6 +52,7 @@ Hi, I'm Lucas 👋 - a full stack web developer with 12+ years of hands-on exper
 - Lumen, NodeJS, Express.js, React, Redux, Axios, Pug, MongoDB
 - BASIC dialects (MSX, Yabasic), AWK, PowerShell, VBScript, Win32 API, Batch scripting, MIT-Scheme (SICP), Chicken Scheme
 - DevOps, CI and CD pipelines
+- Symfony (PHP)
 - Microservices, RabbitMQ
 - Selenium Webdriver (for Python and PHP)
 - DDD architecture
